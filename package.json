@@ -1,0 +1,19 @@
+{
+  "name": "upload-img-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreerajkrishnank/upload-img-firebase.git"
+  },
+  "author": "sreerajkrishnank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreerajkrishnank/upload-img-firebase/issues"
+  },
+  "homepage": "https://github.com/sreerajkrishnank/upload-img-firebase#readme"
+}
